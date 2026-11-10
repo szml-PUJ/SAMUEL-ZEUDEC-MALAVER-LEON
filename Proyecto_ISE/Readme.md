@@ -45,7 +45,7 @@ Hay tres países (ES, FR, IT) y cinco sectores. Cada encuesta trae un sentimient
 
 Son tres programas que se comunican por un *pipe nominal*:
 
-
+```
 generadorCSV ──> encuestas_XX.csv ──> agentePais (uno por país) ──┐
                                                                   │ pipe nominal
                                                                   v
@@ -54,7 +54,7 @@ generadorCSV ──> encuestas_XX.csv ──> agentePais (uno por país) ──�
                                                           ├─ hilo temporizador (-t)
                                                           └─ un hilo consumidor por agente
                                                              (buffer circular + semáforos)
-
+```
 
 | Archivo | Qué hace |
 |---|---|
