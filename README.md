@@ -51,11 +51,10 @@
 
 ## 💻 Proyectos Actuales
 
-* 🎲 **Juego de Risk:** Proyecto enfocado en la aplicación práctica de **Estructuras de Datos**.
 * 📊 **Indicador de Sentimiento Económico:** Proyecto desarrollado en el área de **Sistemas Operativos**.
 
 ---
 
 ## 📬 Conecta conmigo
 
-* ✉️ [Correo Electrónico]
+* ✉️ samuelzeudec@gmail.com
